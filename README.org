@@ -1,0 +1,5 @@
+Reconstruction of the data used to generate the scatterplots in York University's AAPR task force reports.
+
+[[extract.org]] has all of the data and code; it can be used to reproduce everything I did.  [[extract.pdf]] is a nice human-readable version.
+
+William Denton (wdenton@yorku.ca)

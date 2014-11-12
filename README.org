@@ -2,4 +2,6 @@ Reconstruction of the data used to generate the scatterplots in York University'
 
 [[extract.org]] has all of the data and code; it can be used to reproduce everything I did.  [[extract.pdf]] is a nice human-readable version.
 
+The raw data (a combination of the provided program code list and the reconstructed Quality and Sustainability rankings) is in [[aapr.csv.]]
+
 William Denton (wdenton@yorku.ca)

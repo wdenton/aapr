@@ -1,0 +1,410 @@
+Program_Type,Program_Code,Faculty,Department,DEPARTMENT_ID,Program,Type_of_Program,Includes_Degree_Types,Author,Approver
+Academic,AC0010,Education,Faculty of Education,221,Education,Undergraduate Degree,BEd,Lyndon Martin,Ron Owston
+Academic,AC0030,Education,Faculty of Education,221,Diploma in Teacher Preparation in the Education of Deaf and Hard-of-Hearing Students,Non-Degree Studies,Non-Degree Studies,Pam Millett,Ron Owston
+Academic,AC0060,Education,Faculty of Education,221,Education,Graduate Degree,"MEd, GD T 2&3",Sandra Schecter,Ron Owston
+Academic,AC0070,Education,Faculty of Education,221,Education,Graduate Degree,"PhD, GD T 2&3",Sandra Schecter,Ron Owston
+Academic,AC0090,Env Studies,Faculty of Environmental Studies,222,Environmental Studies,"Degree (minor/major, certificate)","BES, Undergraduate Certificates",Gail Fraser,Noël Sturgeon
+Academic,AC0100,Env Studies,Faculty of Environmental Studies,222,Environmental Studies,Graduate Degree,MES,Justin Podur,Noël Sturgeon
+Academic,AC0110,Env Studies,Faculty of Environmental Studies,222,Environmental Studies,Graduate Degree,PhD,Justin Podur,Noël Sturgeon
+Academic,AC0130,Fine Arts,Dance,801,Dance,"Degree (minor/major, certificate)",BA,Claire Wootten,Shawn Brixey
+Academic,AC0140,Fine Arts,Dance,801,Dance,"Degree (minor/major, certificate)",BFA,Claire Wootten,Shawn Brixey
+Academic,AC0150,Fine Arts,Dance,801,Dance,Graduate Degree,MFA,Darcey Callison,Shawn Brixey
+Academic,AC0160,Fine Arts,Dance,801,Dance,Graduate Degree,MA,Claire Wooten,Shawn Brixey
+Academic,AC0170,Fine Arts,Dance,801,Dance Studies,Graduate Degree,PhD,Claire Wooten,Shawn Brixey
+Academic,AC0190,Fine Arts,Design,803,Design,"Degree (minor/major, certificate)",BDes,Angela Norwood,Shawn Brixey
+Academic,AC0200,Fine Arts,Design,803,Design,Graduate Degree,MDes,David Gelb,Shawn Brixey
+Academic,AC0220,Fine Arts,Digital Media,804,Digital Media,Degree (minor/major),BA,Don Sinclair,Shawn Brixey
+Academic,AC0240,Fine Arts,Film,805,Film,Degree (minor/major),BA,John McCullough,Shawn Brixey
+Academic,AC0250,Fine Arts,Film,805,Film,Degree (minor/major),BFA,John McCullough,Shawn Brixey
+Academic,AC0260,Fine Arts,Film,805,Film,Graduate Degree,MFA,John Greyson,Shawn Brixey
+Academic,AC0270,Fine Arts,Film,805,Cinema & Media Studies,Graduate Degree,MA,Brenda Longfellow,Shawn Brixey
+Academic,AC0280,Fine Arts,Film,805,Cinema & Media Studies,Graduate Degree,PhD,Brenda Longfellow,Shawn Brixey
+Academic,AC0300,Fine Arts,Music,806,Music,Degree (minor/major),BA,Bill Thomas,Shawn Brixey
+Academic,AC0310,Fine Arts,Music,806,Music,Degree (minor/major),BFA,Bill Thomas,Shawn Brixey
+Academic,AC0320,Fine Arts,Music,806,Music,Graduate Degree,MA,Michael Coghlan,Shawn Brixey
+Academic,AC0330,Fine Arts,Music,806,Music,Graduate Degree,PhD,Michael Coghlan,Shawn Brixey
+Academic,AC0350,Fine Arts,Theatre,16800,Theatre,Degree (minor/major),BA,Teresa Przybylski,Shawn Brixey
+Academic,AC0360,Fine Arts,Theatre,16800,Theatre,Degree (minor/major),BFA,Teresa Przybylski,Shawn Brixey
+Academic,AC0370,Fine Arts,Theatre,16800,Theatre,Graduate Degree,MFA,Eric Armstrong,Shawn Brixey
+Academic,AC0390,Fine Arts,Theatre,16800,Theatre and Performance Studies,Graduate Degree,MA,Marlis Schweitzer,Shawn Brixey
+Academic,AC0400,Fine Arts,Theatre,16800,Theatre and Performance Studies,Graduate Degree,PhD,Marlis Schweitzer,Shawn Brixey
+Academic,AC0420,Fine Arts,Visual Arts,16850,Art History,Degree (minor/major),BA,Sarah Parsons,Shawn Brixey
+Academic,AC0430,Fine Arts,Visual Arts,16850,Visual Arts,Degree (minor/major),BFA,Sarah Parsons,Shawn Brixey
+Academic,AC0440,Fine Arts,Visual Arts,16850,Art History,Graduate Degree,MA,Sarah Parsons,Shawn Brixey
+Academic,AC0450,Fine Arts,Visual Arts,16850,Art History & Visual Culture,Graduate Degree,PhD,Sarah Parsons,Shawn Brixey
+Academic,AC0460,Fine Arts,Visual Arts,16850,Visual Arts,Graduate Degree,MFA,Nell Tenhaaf,Shawn Brixey
+Academic,AC0470,Fine Arts,Visual Arts,16850,Visual Arts,Graduate Degree,PhD,Nell Tenhaaf,Shawn Brixey
+Academic,AC0500,Glendon,Economics,17250,Business Economics,Degree (minor/major),"BA, iBA",Vincent Hildebrand,Donald Ipperciel
+Academic,AC0510,Glendon,Economics,17250,Economics,Degree (minor/major),"BA, iBA",Vincent Hildebrand,Donald Ipperciel
+Academic,AC0530,Glendon,English,17300,English Studies,"Degree (minor/major, certificate)","BA, iBA",Danielle Russell,Donald Ipperciel
+Academic,AC0550,Glendon,French Studies,17350,French Studies,Degree (minor/major),"BA, iBA",Sylvie Rosienski,Donald Ipperciel
+Academic,AC0570,Glendon,French Studies,17350,Études françaises,Graduate Degree,MA,Mario Roy,Donald Ipperciel
+Academic,AC0580,Glendon,French Studies,17350,Études francophones,Graduate Degree,PhD,Mario Roy,Donald Ipperciel
+Academic,AC0590,Glendon,Hispanic Studies,17900,Hispanic Studies,"Degree (minor/major, certificate)","BA, iBA",Esther Raventos-Pons,Donald Ipperciel
+Academic,AC0610,Glendon,History,17400,History,Degree (minor/major),"BA, iBA",Gillian McGillivray,Donald Ipperciel
+Academic,AC0630,Glendon,International Studies,17950,International Studies,Degree (minor/major),"BA, iBA",Stanislav J. Kirschbaum,Donald Ipperciel
+Academic,AC0650,Glendon,Mathematics,17500,Mathematics,Degree (minor/major),"BA, iBA",David Spring,Donald Ipperciel
+Academic,AC0670,Glendon,Multi Disciplinary Studies,17550,Environmental & Health Studies,Degree (minor/major),"BA, iBA",Radu Guiasu,Donald Ipperciel
+Academic,AC0680,Glendon,Multi Disciplinary Studies,17550,Drama Studies,Degree (minor/major),"BA, iBA",Guillaume Bernardi,Donald Ipperciel
+Academic,AC0690,Glendon,Multi Disciplinary Studies,17550,Individualized Studies,Degree (minor/major),"BA, iBA",Colin Coates,Donald Ipperciel
+Academic,AC0700,Glendon,Multi Disciplinary Studies,17550,Linguistics and Languages,Degree (minor/major),BA,Ian Martin,Donald Ipperciel
+Academic,AC0710,Glendon,Multi Disciplinary Studies,17550,Canadian Studies,Degree (minor/major),"BA, iBA",Geoffrey Ewen,Donald Ipperciel
+Academic,AC0730,Glendon,Philosophy,17600,Philosophy,"Degree (minor/major, certificate)","BA, iBA",Doris Olin,Donald Ipperciel
+Academic,AC0750,Glendon,Political Science,17650,Political science,Degree (minor/major),"BA, iBA",Ian Roberge,Donald Ipperciel
+Academic,AC0770,Glendon,Psychology,17700,Psychology,Degree (minor/major),"BA, iBA",Timothy Moore,Donald Ipperciel
+Academic,AC0790,Glendon,Public and International Affairs,9007,Public and International Affairs,Graduate Degree,MPIA,Michael Barutciski,Donald Ipperciel
+Academic,AC0810,Glendon,Sociology,17750,Sociology,Degree (minor/major),"BA, iBA",Brian Singer,Donald Ipperciel
+Academic,AC0830,Glendon,Womens Studies,18000,Gender and Women Studies,"Degree (minor/major, certificate)","BA, iBA",Gertrude Mianda,Donald Ipperciel
+Academic,AC0850,Glendon,School of Translation,17800,Translation Studies,"Degree (minor/major, certificate)","BA, iBA",Marie-Christine Aubin,Donald Ipperciel
+Academic,AC0860,Glendon,School of Translation,17800,Translation Studies,Graduate Degree,MA,Marie-Christine Aubin,Donald Ipperciel
+Academic,AC0870,Glendon,School of Translation,17800,Conference Interpreting,Graduate Degree,MCI,Andrew Clifford,Donald Ipperciel
+Research,AC0890,Glendon,Glendon,224,Centre for Research on Language Contact,ORU,,Dominique Scheffel-Dunand,Donald Ipperciel
+Academic,AC0900,Health,Faculty of Health,226,Global Health,Undergradute Degree,BA,Beryl Pilkington,Harvey Skinner
+Academic,AC0910,Health,Faculty of Health,226,Global Health,Undergradute Degree,BSc,Beryl Pilkington,Harvey Skinner
+Academic,AC0920,Health,School of Hlth Policy&Mgmt,43200,Health Studies,"Degree (minor/major, certificate)",BHS,Lillie Lum,Harvey Skinner
+Academic,AC0930,Health,School of Hlth Policy&Mgmt,43200,Health,Graduate Degree,MA,Lillie Lum,Harvey Skinner
+Academic,AC0940,Health,School of Hlth Policy&Mgmt,43200,Health,Graduate Degree,PhD,Mary Wiktorowicz,Harvey Skinner
+Academic,AC0950,Health,School of Hlth Policy&Mgmt,43200,Critical Disablity,Graduate Degree,MA,Lillie Lum,Harvey Skinner
+Academic,AC0960,Health,School of Hlth Policy&Mgmt,43200,Critical Disablity,Graduate Degree,PhD,Mary Wiktorowicz,Harvey Skinner
+Academic,AC0980,Health,Kinesiology & Health Scienc,21000,Kinesiology & Health Science,"Degree (minor/major, certificate)",BA,Angelo Belcastro,Harvey Skinner
+Academic,AC0990,Health,Kinesiology & Health Scienc,21000,Kinesiology & Health Science,"Degree (minor/major, certificate)",BSc,Angelo Belcastro,Harvey Skinner
+Academic,AC1000,Health,Kinesiology & Health Scienc,21000,Kinesiology & Health Science,Graduate Degree,MSc,Angelo Belcastro,Harvey Skinner
+Academic,AC1010,Health,Kinesiology & Health Scienc,21000,Kinesiology & Health Science,Graduate Degree,MA,Angelo Belcastro,Harvey Skinner
+Academic,AC1020,Health,Kinesiology & Health Scienc,21000,Kinesiology & Health Science,Graduate Degree,MFSc,Angelo Belcastro,Harvey Skinner
+Academic,AC1030,Health,Kinesiology & Health Scienc,21000,Kinesiology & Health Science,Graduate Degree,PhD,Angelo Belcastro,Harvey Skinner
+Academic,AC1050,Health,School of Nursing,13750,Nursing,Undergradute Degree,BScN,Claire Mallette,Harvey Skinner
+Academic,AC1060,Health,School of Nursing,13750,Nursing,Undergradute Degree,BScN,Claire Mallette,Harvey Skinner
+Academic,AC1070,Health,School of Nursing,13750,Nursing,Undergradute Degree,BScN,Claire Mallette,Harvey Skinner
+Academic,AC1080,Health,School of Nursing,13750,Nursing,Graduate Degree,MScN,Claire Mallette,Harvey Skinner
+Academic,AC1100,Health,Psychology,13400,Psychology,"Degree (minor/major, certificate)",BA,Suzanne Macdonald,Harvey Skinner
+Academic,AC1110,Health,Faculty of Health,226,Psychology,"Degree (minor/major, certificate)",BSc,Suzanne Macdonald,Harvey Skinner
+Academic,AC1120,Health,Psychology,13400,Psychology,Graduate Degree,MA,Suzanne Macdonald,Harvey Skinner
+Academic,AC1130,Health,Psychology,13400,Psychology,Graduate Degree,PhD,Suzanne Macdonald,Harvey Skinner
+Research,AC1160,Health,Faculty of Health,226,LaMarsh Centre for Child and Youth Research,ORU,,Yvonne Bohr,Harvey Skinner
+Research,AC1170,Health,Faculty of Health,226,Muscle Health Research Centre,ORU,,David Hood,Harvey Skinner
+Academic,AC1180,LA&PS,Anthropology,56550,Anthropology,Degree (Major/Minor/Certificate),"BA, iBA",Albert Schrauwers,Martin Singer
+Academic,AC1190,LA&PS,Anthropology,56550,Anthropology – Social (Social Anthropology),Graduate Degree,MA,Albert Schrauwers,Martin Singer
+Academic,AC1200,LA&PS,Anthropology,56550,Anthropology – Social (Social Anthropology),Graduate Degree,PhD,Albert Schrauwers,Martin Singer
+Academic,AC1220,LA&PS,Communication Studies,57200,Communication Studies,Degree (Major/Minor/Certificate),"BA, iBA",Kevin Dowler,Martin Singer
+Academic,AC1230,LA&PS,Communication Studies,57200,Communication & Culture,Graduate Degree,MA (with Ryerson),Kevin Dowler,Martin Singer
+Academic,AC1240,LA&PS,Communication Studies,57200,Communication & Culture,Graduate Degree,PhD (with Ryerson),Kevin Dowler,Martin Singer
+Academic,AC1260,LA&PS,Languages Lit Ling,56950,German Studies,Degree (Major/Minor/Certificate),"BA, iBA",Pietro Giordan,Martin Singer
+Academic,AC1270,LA&PS,Languages Lit Ling,56950,Italian Culture,Degree (Major/Minor/Certificate),BA,Pietro Giordan,Martin Singer
+Academic,AC1280,LA&PS,Languages Lit Ling,56950,Italian Studies,Degree (Major/Minor/Certificate),"BA, iBA",Pietro Giordan,Martin Singer
+Academic,AC1290,LA&PS,Languages Lit Ling,56950,Japanese,Degree (Major/Minor/Certificate),BA,Pietro Giordan,Martin Singer
+Academic,AC1300,LA&PS,Languages Lit Ling,56950,Linguistics,Degree (Major/Minor/Certificate),BA,Pietro Giordan,Martin Singer
+Academic,AC1310,LA&PS,Languages Lit Ling,56950,Portugese Studies,Degree (Major/Minor/Certificate),BA,Pietro Giordan,Martin Singer
+Academic,AC1320,LA&PS,Languages Lit Ling,56950,Spanish,Degree (Major/Minor/Certificate),BA,Pietro Giordan,Martin Singer
+Academic,AC1325,LA&PS,Languages Lit Ling,56950,Non- Degree and Non-Certificate Languages,Non- Degree,Non-Degree Studies,Pietro Giordan,Martin Singer
+Academic,AC1350,LA&PS,Languages Lit Ling,56950,Undergraduate Certificates,Degree (Major/Minor/Certificate),Certificate,Pietro Giordan,Martin Singer
+Academic,AC1355,LA&PS,Languages Lit Ling,56950,ESL,Non- Degree,Non-Degree Studies,Pietro Giordan,Martin Singer
+Academic,AC1360,LA&PS,Languages Lit Ling,56950,Linguistics & Applied Linguistics,Graduate Degree,MA,Pietro Giordan,Martin Singer
+Academic,AC1370,LA&PS,Languages Lit Ling,56950,Linguistics & Applied Linguistics,Graduate Degree,PhD,Pietro Giordan,Martin Singer
+Academic,AC1380,LA&PS,Economics,56600,Business Economics,Degree (Major/Minor/Certificate),BA,Mahmudul Anam,Martin Singer
+Academic,AC1390,LA&PS,Economics,56600,Economics,Degree (Major/Minor/Certificate),BA,Mahmudul Anam,Martin Singer
+Academic,AC1400,LA&PS,Economics,56600,Financial & Business Economics,Degree (Major/Minor/Certificate),BA,Mahmudul Anam,Martin Singer
+Academic,AC1420,LA&PS,Economics,56600,Economics,Graduate Degree,MA,Mahmudul Anam,Martin Singer
+Academic,AC1430,LA&PS,Economics,56600,Economics,Graduate Degree,PhD,Mahmudul Anam,Martin Singer
+Academic,AC1440,LA&PS,English,56650,Creative Writing,Degree (Major/Minor/Certificate),BA,Jonathan Warren,Martin Singer
+Academic,AC1450,LA&PS,English,56650,English,Degree (Major/Minor/Certificate),BA,Jonathan Warren,Martin Singer
+Academic,AC1460,LA&PS,English,56650,English,Graduate Degree,MA,Jonathan Warren,Martin Singer
+Academic,AC1470,LA&PS,English,56650,English,Graduate Degree,PhD,Jonathan Warren,Martin Singer
+Academic,AC1480,LA&PS,Equity Studies,56700,Human Rights & Equity Studies,Degree (Major/Minor/Certificate),BA,Minoo Derayeh,Martin Singer
+Academic,AC1490,LA&PS,Equity Studies,56700,Multicultural and Indigenous Studies,Degree (Major/Minor/Certificate),BA,Minoo Derayeh,Martin Singer
+Academic,AC1510,LA&PS,French Studies,56750,French Studies,Degree (Major/Minor/Certificate),"BA, iBA",Monique Adriaen,Martin Singer
+Academic,AC1540,LA&PS,"Gender, Sexuality and Women's Studies",9005,Gender and Women Studies,Degree (Major/Minor/Certificate),BA,Gertrude Mianda,Martin Singer
+Academic,AC1550,LA&PS,"Gender, Sexuality and Women's Studies",9005,Sexuality Studies,Degree (Major/Minor/Certificate),"BA, iBA",Gertrude Mianda,Martin Singer
+Academic,AC1560,LA&PS,"Gender, Sexuality and Women's Studies",9005,"Gender, Feminist & Women's Studies",Graduate Degree,MA,Gertrude Mianda,Martin Singer
+Academic,AC1570,LA&PS,"Gender, Sexuality and Women's Studies",9005,"Gender, Feminist & Women's Studies",Graduate Degree,PhD,Gertrude Mianda,Martin Singer
+Academic,AC1600,LA&PS,Geography,56800,Geography,Degree (Major/Minor/Certificate),"BA, iBA",Steven Tufts,Martin Singer
+Academic,AC1610,LA&PS,Geography,56800,Geography and Urban Studies,Degree (Major/Minor/Certificate),BA,Steven Tufts,Martin Singer
+Academic,AC1620,LA&PS,Geography,56800,Geography,Graduate Degree,MA,Steven Tufts,Martin Singer
+Academic,AC1630,LA&PS,Geography,56800,Geography,Graduate Degree,MSc,Steven Tufts,Martin Singer
+Academic,AC1640,LA&PS,Geography,56800,Geography,Graduate Degree,PhD,Steven Tufts,Martin Singer
+Academic,AC1660,LA&PS,History,56850,History,Degree (Major/Minor/Certificate),"BA, iBA",Marcel Martel,Martin Singer
+Academic,AC1670,LA&PS,History,56850,History,Graduate Degree,MA,Marcel Martel,Martin Singer
+Academic,AC1680,LA&PS,History,56850,History,Graduate Degree,"PhD, (Ancient History with UoT)",Marcel Martel,Martin Singer
+Academic,AC1700,LA&PS,Human Resources Mgmt,57150,Human Resources Management,Degree (Major/Minor/Certificate),BHRM,Marie-Helene Budworth,Martin Singer
+Academic,AC1710,LA&PS,Human Resources Mgmt,57150,Human Resources Management,Graduate Degree,MHRM,Marie-Helene Budworth,Martin Singer
+Academic,AC1720,LA&PS,Human Resources Mgmt,57150,Human Resources Management,Graduate Degree,PhD,Marie-Helene Budworth,Martin Singer
+Academic,AC1740,LA&PS,Humanities,56900,Canadian Studies,Degree (Major/Minor/Certificate),BA,Martin Lockshin,Martin Singer
+Academic,AC1750,LA&PS,Humanities,56900,Children's Studies,Degree (Major/Minor/Certificate),BA,Martin Lockshin,Martin Singer
+Academic,AC1760,LA&PS,Humanities,56900,Classical Studies and Classics,Degree (Major/Minor/Certificate),BA,Martin Lockshin,Martin Singer
+Academic,AC1770,LA&PS,Humanities,56900,Culture & Expression,Degree (Major/Minor/Certificate),BA,Martin Lockshin,Martin Singer
+Academic,AC1780,LA&PS,Humanities,56900,East Asian Studies,Degree (Major/Minor/Certificate),BA,Martin Lockshin,Martin Singer
+Academic,AC1790,LA&PS,Humanities,56900,European Studies,Degree (Major/Minor/Certificate),"BA, iBA",Martin Lockshin,Martin Singer
+Academic,AC1800,LA&PS,Humanities,56900,Hellenic Studies,Degree (Major/Minor/Certificate),BA,Martin Lockshin,Martin Singer
+Academic,AC1810,LA&PS,Humanities,56900,Humanities,Degree (Major/Minor/Certificate),"BA, iBA",Martin Lockshin,Martin Singer
+Academic,AC1820,LA&PS,Humanities,56900,Individualized/Multidisciplinary Studies,Degree (Major/Minor/Certificate),BA,Martin Lockshin,Martin Singer
+Academic,AC1830,LA&PS,Humanities,56900,Jewish Studies,Degree (Major/Minor/Certificate),BA,Martin Lockshin,Martin Singer
+Academic,AC1840,LA&PS,Humanities,56900,Religious Studies,Degree (Major/Minor/Certificate),BA,Martin Lockshin,Martin Singer
+Academic,AC1850,LA&PS,Science - STS,56900,Science and Technology Science,Degree (Major/Minor/Certificate),BA,Joan Steigerwald,Martin Singer
+Academic,AC1860,LA&PS,Humanities,56900,US Studies,Degree (Major/Minor/Certificate),BA,Martin Lockshin,Martin Singer
+Academic,AC1890,LA&PS,Humanities,56900,Humanities,Graduate Degree,MA,Martin Lockshin,Martin Singer
+Academic,AC1900,LA&PS,Humanities,56900,Humanities,Graduate Degree,PhD,Martin Lockshin,Martin Singer
+Academic,AC1910,LA&PS,Humanities,56900,Interdisciplinary Studies,Graduate Degree,MA,Martin Lockshin,Martin Singer
+Academic,AC1920,LA&PS,Information Technology,57250,Information Technology,Degree (Major/Minor/Certificate),"BA, BAS",Jimmy Huang,Martin Singer
+Academic,AC1930,LA&PS,Information Technology,57250,Information Systems & Technology,Graduate Degree,MA,Jimmy Huang,Martin Singer
+Academic,AC1950,LA&PS,Philosophy,57000,Cognitive Science,Degree (Major/Minor/Certificate),BA,Robert Myers,Martin Singer
+Academic,AC1960,LA&PS,Philosophy,57000,Philosophy,Degree (Major/Minor/Certificate),BA,Robert Myers,Martin Singer
+Academic,AC1970,LA&PS,Philosophy,57000,Philosophy,Graduate Degree,MA,Robert Myers,Martin Singer
+Academic,AC1980,LA&PS,Philosophy,57000,Philosophy,Graduate Degree,PhD,Robert Myers,Martin Singer
+Academic,AC2010,LA&PS,Political Science,57050,Global Political Studies,Degree (Major/Minor/Certificate),BA,Ananya Mukherjee-Reed,Martin Singer
+Academic,AC2020,LA&PS,Political Science,57050,Political Science,Degree (Major/Minor/Certificate),"BA, iBA",Ananya Mukherjee-Reed,Martin Singer
+Academic,AC2030,LA&PS,Political Science,57050,Political Science,Graduate Degree,MA,Ananya Mukherjee-Reed,Martin Singer
+Academic,AC2040,LA&PS,Political Science,57050,Political Science,Graduate Degree,PhD,Ananya Mukherjee-Reed,Martin Singer
+Academic,AC2060,LA&PS,Public Policy & Admin,57300,Public Administration,Degree (Major/Minor/Certificate),BPA,James C. Simeon,Martin Singer
+Academic,AC2080,LA&PS,Public Policy & Admin,57300,"Public Policy, Administration & Law",Graduate Degree,MPPAL,James C. Simeon,Martin Singer
+Academic,AC2090,LA&PS,Public Policy & Admin,57100,Administrative Studies,Degree (Major/Minor/Certificate),BAS,Peggy Ng,Martin Singer
+Academic,AC2100,LA&PS,Public Policy & Admin,57100,Business,Degree (Major/Minor/Certificate),,Peggy Ng,Martin Singer
+Academic,AC2110,LA&PS,Public Policy & Admin,57100,Disaster & Emergency Management,Degree (Major/Minor/Certificate),BDEM,Peggy Ng,Martin Singer
+Academic,AC2120,LA&PS,Public Policy & Admin,57100,Disaster & Emergency Management,Graduate Degree,MDEM,Peggy Ng,Martin Singer
+Academic,AC2130,LA&PS,Public Policy & Admin,57100,Financial Accountability,Graduate Degree,MFAc,Peggy Ng,Martin Singer
+Academic,AC2150,LA&PS,Social Science,57450,African Studies,Degree (Major/Minor/Certificate),BA,Kimberley White,Martin Singer
+Academic,AC2160,LA&PS,Social Science,57450,Business & Society,Degree (Major/Minor/Certificate),BA,Kimberley White,Martin Singer
+Academic,AC2170,LA&PS,Social Science,57450,Criminology,Degree (Major/Minor/Certificate),BA,Kimberley White,Martin Singer
+Academic,AC2180,LA&PS,Social Science,57450,Health & Society,Degree (Major/Minor/Certificate),BA,Kimberley White,Martin Singer
+Academic,AC2190,LA&PS,Social Science,57450,International Development Studies,Degree (Major/Minor/Certificate),BA,Kimberley White,Martin Singer
+Academic,AC2200,LA&PS,Social Science,57450,Latin American & Caribbean Studies,Degree (Major/Minor/Certificate),BA,Kimberley White,Martin Singer
+Academic,AC2210,LA&PS,Social Science,57450,Law and Society,Degree (Major/Minor/Certificate),BA,Kimberley White,Martin Singer
+Academic,AC2230,LA&PS,Social Science,57450,Social Science,Degree (Major/Minor/Certificate),BA,Kimberley White,Martin Singer
+Academic,AC2240,LA&PS,Social Science,57450,South Asian Studies,Degree (Major/Minor/Certificate),BA,Kimberley White,Martin Singer
+Academic,AC2250,LA&PS,Social Science,57450,Urban Studies,Degree (Major/Minor/Certificate),"BA, iBA",Kimberley White,Martin Singer
+Academic,AC2260,LA&PS,Social Science,57450,Work & Labour Studies,Degree (Major/Minor/Certificate),BA,Kimberley White,Martin Singer
+Academic,AC2270,LA&PS,Social Science,57450,Development Studies,Graduate Degree,MA,Kimberley White,Martin Singer
+Academic,AC2280,LA&PS,Social Science,57450,Social & Political Thought,Graduate Degree,MA,Kimberley White,Martin Singer
+Academic,AC2290,LA&PS,Social Science,57450,Social & Political Thought,Graduate Degree,PhD,Kimberley White,Martin Singer
+Academic,AC2300,LA&PS,Social Science,57450,Socio-Legal Studies,Graduate Degree,MA,Kimberley White,Martin Singer
+Academic,AC2310,LA&PS,Social Science,57450,Socio-Legal Studies,Graduate Degree,PhD,Kimberley White,Martin Singer
+Academic,AC2340,LA&PS,Social Work,57350,Social Work,Degree (Major/Minor/Certificate),BSW,Barbara Heron,Martin Singer
+Academic,AC2350,LA&PS,Social Work,57350,Social Work,Graduate Degree,MSW,Barbara Heron,Martin Singer
+Academic,AC2360,LA&PS,Social Work,57350,Social Work,Graduate Degree,PhD,Barbara Heron,Martin Singer
+Academic,AC2380,LA&PS,Sociology,57500,Sociology,Degree (Major/Minor/Certificate),BA,Philip Walsh,Martin Singer
+Academic,AC2390,LA&PS,Sociology,57500,Sociology,Graduate Degree,MA,Philip Walsh,Martin Singer
+Academic,AC2400,LA&PS,Sociology,57500,Sociology,Graduate Degree,PhD,Philip Walsh,Martin Singer
+Academic,AC2420,LA&PS,LAPS - Writing Department,57550,English & Professional Writing,Degree (Major/Minor/Certificate),BA,John Spencer,Martin Singer
+Academic,AC2430,LA&PS,LAPS - Writing Department,57550,Professional Writing,Degree (Major/Minor/Certificate),BA,John Spencer,Martin Singer
+Academic,AC2435,LA&PS,LAPS - Writing Department,57550,Writing Support,Non- Degree,Non-Degree Studies,John Spencer,Martin Singer
+Research,AC2450,LA&PS,Faculty of Liberal Arts & Professional Studies,227,Global Labour Research Centre,ORU,,Mark Thomas,Martin Singer
+Academic,AC2460,Lassonde,Electrical Engineering & Computer Science,9002,Computer Engineering,Undergraduate Degree,BASc,Rob Alison,Richard Hornsey
+Academic,AC2470,Lassonde,Electrical Engineering & Computer Science,9002,Computer Engineering,Graduate Degree,MASc,Rick Wildes,Richard Hornsey
+Academic,AC2480,Lassonde,Electrical Engineering & Computer Science,9002,Computer Science,Undergraduate Degree,"BA, iBA",Minas Spetsakis,Richard Hornsey
+Academic,AC2490,Lassonde,Electrical Engineering & Computer Science,9002,Computer Science,Undergraduate Degree,"BSc, iBSc",Minas Spetsakis,Richard Hornsey
+Academic,AC2500,Lassonde,Electrical Engineering & Computer Science,9002,Computer Science,Graduate Degree,MSc,Rick Wildes,Richard Hornsey
+Academic,AC2510,Lassonde,Electrical Engineering & Computer Science,9002,Computer Science,Graduate Degree,PhD,Rick Wildes,Richard Hornsey
+Academic,AC2520,Lassonde,Electrical Engineering & Computer Science,9002,Computer Security,Undergraduate Degree,BA,Minas Spetsakis,Richard Hornsey
+Academic,AC2530,Lassonde,Electrical Engineering & Computer Science,9002,Computer Security,Undergraduate Degree,BSc,Minas Spetsakis,Richard Hornsey
+Academic,AC2540,Lassonde,Electrical Engineering & Computer Science,9002,Electrical Engineering,Undergraduate Degree,BASc,Rob Alison,Richard Hornsey
+Academic,AC2550,Lassonde,Electrical Engineering & Computer Science,9002,Software Engineering,Undergraduate Degree,BASc,Rob Alison,Richard Hornsey
+Academic,AC2560,Lassonde,Electrical Engineering & Computer Science,9002,Digital Media,Undergraduate Degree,BA,Gunnar Gotshalks,Richard Hornsey
+Academic,AC2570,Lassonde,Earth & Space Science & Engineering,9001,Geomatics Engineering,,BASc,Gunho Sohn,Richard Hornsey
+Academic,AC2590,Lassonde,Earth & Space Science & Engineering,9001,Space Engineering,,BASc,Mike Daly,Richard Hornsey
+Academic,AC2600,Lassonde,Earth & Space Science & Engineering,9001,Earth & Space Science,Graduate Degree,MSc,Sunil Bisnath,Richard Hornsey
+Academic,AC2610,Lassonde,Earth & Space Science & Engineering,9001,Earth & Space Science,Graduate Degree,PhD,Sunil Bisnath,Richard Hornsey
+Academic,AC2620,Lassonde,Electrical Engineering & Computer Science,9002,Engineering and International Development Studies,Undergraduate Degree,BA/BASc,Richard Hornsey,Janusz Kozinski
+Academic,AC2630,Lassonde,Mechanical Engineering,9003,Mechanical Engineering,Undergraduate Degree,BEng,Nick Cercone,Richard Hornsey
+Academic,AC2640,Lassonde,Earth & Space Science & Engineering,9001,Earth & Atmospheric Science,Major/Minor,BSc,Yongsheng Chen,Richard Hornsey
+Research,AC2660,Lassonde,Mechanical Engineering,9004,Centre for Research in Earth and Space Science,ORU,,Jim Whiteway,Richard Hornsey
+Academic,AC2670,Osgoode,Osgoode Hall Law School,228,Law,Undergraduate Degree,JD,Poonam Puri,Lorne Sossin
+Academic,AC2680,Osgoode,Osgoode Hall Law School,228,Law,Graduate degree,LLM (Research),Dayna Scott,Lorne Sossin
+Academic,AC2690,Osgoode,Osgoode Hall Law School,228,Law,Graduate degree,PhD (Research),Dayna Scott,Lorne Sossin
+Research,AC2730,Osgoode,Osgoode Hall Law School,228,"The Jack and Mae Nathanson Centre on Transnational Human Rights, Crime and Security",ORU,,Francois Tanguay-Renaud,Lorne Sossin
+Academic,AC2740,Schulich,Schulich School of Business,229,Business Administration,Undergraduate Degree,"BBA, iBBA",Detlev Zwick,Dezsö Horváth
+Academic,AC2760,Schulich,Schulich School of Business,229,Business Administration,Graduate Degree,"MBA, iMBA, MBA in India",Steve Weiss,Dezsö Horváth
+Academic,AC2780,Schulich,Schulich School of Business,229,Finance,Graduate Degree,M of Finance,Pauline Shum,Dezsö Horváth
+Academic,AC2790,Schulich,Schulich School of Business,229,Accounting,Graduate Degree,MAcc,Marcia Annisette,Dezsö Horváth
+Academic,AC2800,Schulich,Schulich School of Business,229,Business Analitics,Graduate Degree,MSc in Business Analitics,Murat Kristal,Dezsö Horváth
+Academic,AC2810,Schulich,Schulich School of Business,229,Business,Graduate Degree,PhD,Eileen Fischer,Dezsö Horváth
+Academic,AC2830,Science,Biology,20650,Applied Biotechnology,"Degree (minor/major, certificate)",BSc(Tech),Paula Wilson,Ray Jayawardhana
+Academic,AC2840,Science,Biology,20650,Biology,"Degree (minor/major, certificate)","BSc, iBSc",Paula Wilson,Ray Jayawardhana
+Academic,AC2850,Science,Biology,20650,Environmental Biology,"Degree (minor/major, certificate)",BSc,Alex Mills,Ray Jayawardhana
+Academic,AC2860,Science,Biology,20650,Biology,Graduate Degree,MSc,Michael Scheid,Ray Jayawardhana
+Academic,AC2870,Science,Biology,20650,Biology,Graduate Degree,PhD,Michael Scheid,Ray Jayawardhana
+Academic,AC2890,Science,Chemistry,20700,Chemistry,"Degree (minor/major, certificate)",BSc,Gerald Audette,Ray Jayawardhana
+Academic,AC2900,Science,Chemistry,20700,Biochemistry,"Degree (minor/major, certificate)",BSc,Valeria Tsoukanova,Ray Jayawardhana
+Academic,AC2910,Science,Chemistry,20700,Chemistry,Graduate Degree,MSc,Dennis Stynes,Ray Jayawardhana
+Academic,AC2920,Science,Chemistry,20700,Chemistry,Graduate Degree,PhD,Gino Lavoie,Ray Jayawardhana
+Academic,AC2940,Science,LAPS - Geography,56800,Geography,"Degree (minor/major, certificate)",BSc,Steven Tufts,Ray Jayawardhana
+Academic,AC2950,Science,LAPS - Geography,56800,Environmental Science,"Degree (minor/major, certificate)",BSc,Steven Tufts,Ray Jayawardhana
+Academic,AC2970,Science,Mathematics & Statistics,21100,Applied Mathematics,"Degree (minor/major, certificate)",BA,Mike Haslam,Ray Jayawardhana
+Academic,AC2980,Science,Mathematics & Statistics,21100,Applied Mathematics,"Degree (minor/major, certificate)",BSc,Mike Haslam,Ray Jayawardhana
+Academic,AC2990,Science,Mathematics & Statistics,21100,Computational Mathematics,"Degree (minor/major, certificate)",BSc,Mike Haslam,Ray Jayawardhana
+Academic,AC3000,Science,Mathematics & Statistics,21100,Mathematics,"Degree (minor/major, certificate)",BA,Peter Gibson,Ray Jayawardhana
+Academic,AC3010,Science,Mathematics & Statistics,21100,Mathematics,"Degree (minor/major, certificate)",BSc,Peter Gibson,Ray Jayawardhana
+Academic,AC3020,Science,Mathematics & Statistics,21100,International Dual Degree in Mathematics and Statistics,"Degree (minor/major, certificate)",BSc,Steven Wang,Ray Jayawardhana
+Academic,AC3030,Science,Mathematics & Statistics,21100,Mathematics for Commerce,"Degree (minor/major, certificate)",BA,Ed Furman,Ray Jayawardhana
+Academic,AC3050,Science,Mathematics & Statistics,21100,Mathematics for Education,"Degree (minor/major, certificate)",BA,Walter Whiteley,Ray Jayawardhana
+Academic,AC3060,Science,Mathematics & Statistics,21100,Mathematics for Education,"Degree (minor/major, certificate)",BSc,Walter Whiteley,Ray Jayawardhana
+Academic,AC3070,Science,Mathematics & Statistics,21100,Statistics,"Degree (minor/major, certificate)",BA,Steven Wang,Ray Jayawardhana
+Academic,AC3080,Science,Mathematics & Statistics,21100,Statistics,"Degree (minor/major, certificate)",BSc,Steven Wang,Ray Jayawardhana
+Academic,AC3090,Science,Mathematics & Statistics,21100,Mathematics & Statistics,Graduate Degree,MA,Huaiping Zhu,Ray Jayawardhana
+Academic,AC3110,Science,Mathematics & Statistics,21100,Mathematics: Applied & Industrial,Graduate Degree,MSc,Huaiping Zhu,Ray Jayawardhana
+Academic,AC3120,Science,Mathematics & Statistics,21100,Mathematics & Statistics,Graduate Degree,PhD,Huaiping Zhu,Ray Jayawardhana
+Academic,AC3140,Science,Physics & Astronomy,21050,Biophysics,"Degree (minor/major, certificate)",BSc,Marshall McCall,Ray Jayawardhana
+Academic,AC3150,Science,Physics & Astronomy,21050,Physics,"Degree (minor/major, certificate)",BSc,Marshall McCall,Ray Jayawardhana
+Academic,AC3160,Science,Physics & Astronomy,21050,Physics and Astronomy,Graduate Degree,MSc,Wendy Taylor,Ray Jayawardhana
+Academic,AC3170,Science,Physics & Astronomy,21050,Physics and Astronomy,Graduate Degree,PhD,Wendy Taylor,Ray Jayawardhana
+Academic,AC3190,Science,Science General,21350,Science,"Degree (minor/major, certificate)",BSc,Peter Cribb,Ray Jayawardhana
+Academic,AC3200,Science,Applied Science& Technology,21150,Science and Technology Studies,"Degree (minor/major, certificate)",BSc,Ernst Hamm,Ray Jayawardhana
+Academic,AC3210,Science,Applied Science& Technology,21150,Science and Technology Studies,Graduate Degree,MA,Jagdish Hattiangadi,Ray Jayawardhana
+Academic,AC3220,Science,Applied Science& Technology,21150,Science and Technology Studies,Graduate Degree,PhD,Kenton Kroker,Ray Jayawardhana
+Research,AC3240,Science,Faculty of Science,9006,Centre for Research on Biomolecular Interactions,ORU,,Sergey Krylov,Ray Jayawardhana
+Research,AC3250,Science,Faculty of Science,9006,The Institute for Science and Technology Studies,ORU,,Bernard Lightman,Ray Jayawardhana
+Research,AC3260,Science,Faculty of Science,9006,Centre for Atmospheric Chemistry,ORU,,Robert McLaren,Ray Jayawardhana
+Research,AC3270,Science,Faculty of Science,9006,Centre for Research in Mass Spectrometry,ORU,,Demian Ifa,Ray Jayawardhana
+Research,AC3290,MISC - VPRI,Office of the VP Res&Innovat'n,43000,Centre for Asian Research* Asian Studies,ORU,Graduate Diploma Type 2,Philip Kelly,Robert Hache
+Research,AC3320,MISC - VPRI,Office of the VP Res&Innovat'n,43000,Centre for Jewish Studies* Jewish Studies,ORU,Graduate Diploma Type 3,Carl Ehrilich,Robert Hache
+Research,AC3330,MISC - VPRI,Office of the VP Res&Innovat'n,43000,CERLAC* Latin American and Caribbean Studies,ORU,Graduate Diploma Type 2,Carlota McAllister,Robert Hache
+Research,AC3350,MISC - VPRI,Office of the VP Res&Innovat'n,43000,Centre for Refugee Studies,ORU,Graduate Diploma Type 2,Jennifer Hyndman,Robert Hache
+Academic,AC3360,MISC - VPAP,Office of the VP Academic & Provost,201,TYP,,,Alice Pitt,Rhonda Lenton
+Research,AC3390,MISC - VPRI,Office of the VP Res&Innovat'n,43000,The Harriet Tubman Institute,ORU,,Annie Bunting,Robert Hache
+Research,AC3400,MISC - VPRI,Office of the VP Res&Innovat'n,43000,Robarts Centre for Canadian Studies,ORU,,Colin Coates,Robert Hache
+Research,AC3410,MISC - VPRI,Office of the VP Res&Innovat'n,43000,Centre for Feminist Research,ORU,,Ena Dua,Robert Hache
+Research,AC3430,MISC - VPRI,Office of the VP Res&Innovat'n,43000,York Centre for Vision Research,ORU,,Laurence Harris,Robert Hache
+Research,AC3450,MISC - VPRI,Office of the VP Res&Innovat'n,43000,Institute for Social Research,ORU Short Courses (e.g. SPSS/SAS training); Spring Seminar Series on Social Research Methods; Summer Program in Data Analysis,,Les Jacobs,Robert Hache
+Research,AC3460,MISC - VPRI,Office of the VP Res&Innovat'n,43000,Institute for Research on Learning Technologies,ORU,,Jennifer Jenson,Robert Hache
+Research,AC3480,MISC - VPRI,Office of the VP Res&Innovat'n,43000,The City Institute at York University,ORU,,Linda Peake,Robert Hache
+Research,AC3490,MISC - VPRI,Office of the VP Res&Innovat'n,43000,York Institute for Health Research,ORU,,Michaela Hynie,Robert Hache
+Academic,AC3500,Lassonde,Civil Engineering,9000,Civil Engineering,Undergraduate Degree,BEng,Jit Sharma,Richard Hornsey
+Administrative,AD0010,,Division of VP Advancement,700,Office of VP of Advancement,,,Caterina Elzbet,Jeff O'Hagan
+Administrative,AD0020,,Division of VP Advancement,700,Advancement Services,,,Leanne Kipfer,Jeff O'Hagan
+Administrative,AD0035,,Division of VP Advancement,700,Community and Alumni Relations,,,James Allan,Jeff O'Hagan
+Administrative,AD0050,,Division of VP Advancement,700,Convocation,,,James Allan,Jeff O'Hagan
+Administrative,AD0060,,Division of VP Advancement,700,Development,,,Wade Hall,Jeff O'Hagan
+Administrative,AD0070,,Division of the President,100,Office of the President,,,Ijade Maxwell Rodrigues,Mamdouh Shoukri
+Administrative,AD0080,,Division of the President,100,Ombudsman,,,Ijade Maxwell Rodrigues,Mamdouh Shoukri
+Administrative,AD0090,,Division of the President,100,Centre for Human Rights,,,Noel Badiou,Mamdouh Shoukri
+Administrative,AD0100,,Division of the President,100,General Counsel,,,Maureen Armtstrong,Mamdouh Shoukri
+Administrative,AD0110,,Division of the President,100,University Secretariat,,,Harriet Lewis,Mamdouh Shoukri
+Administrative,AD0120,,Division of the President,100,Strategic Communications,,,Susan Webb,Mamdouh Shoukri
+Administrative,AD0130,,Division of the President,100,Marketing and Creative Services,,,Susan Webb,Mamdouh Shoukri
+Administrative,AD0140,,Division of the President,100,Media Relations,,,Susan Webb,Mamdouh Shoukri
+Administrative,AD0150,,Division of the President,100,Strategic Initiatives and Administration,,,Susan Webb,Mamdouh Shoukri
+Administrative,AD0160,,Division of VP Students,300,Office of the Vice Provost Students,,,Sheila Forshaw,Rhonda Lenton
+Administrative,AD0170,,Division of VP Students,300,Recruitment - Domestic,,,Don Hunt,Janet Morrison
+Administrative,AD0180,,Division of VP Students,300,Recruitment - International,,,Don Hunt,Janet Morrison
+Administrative,AD0190,,Division of VP Students,300,Admissions (Assessment and Transfer Credit),,,Don Hunt,Janet Morrison
+Administrative,AD0200,,Division of VP Students,300,RO Systems,,,Don Hunt,Janet Morrison
+Administrative,AD0210,,Division of VP Students,300,Student Records Management (including Degree Audit),,,Don Hunt,Janet Morrison
+Administrative,AD0220,,Division of VP Students,300,Student Client Services,,,Don Hunt,Janet Morrison
+Administrative,AD0230,,Division of VP Students,300,"Scheduling – Academic, Accommodated Tests and Exams",,,Don Hunt,Janet Morrison
+Administrative,AD0240,,Division of VP Students,300,"Financial (Scholarships & Bursaries, Government Aid and Student Financial Services)",,,Don Hunt,Janet Morrison
+Administrative,AD0250,,Division of VP Students,300,"Communications (Perspective Students, Current Students and Strategic)",,,Donna Cope,Janet Morrison
+Administrative,AD0260,,Division of VP Students,300,OSCR,,,Debbie Hansen,Janet Morrison
+Administrative,AD0270,,Division of VP Students,300,Career Services,,,Julie Rahmer,Janet Morrison
+Administrative,AD0280,,Division of VP Students,300,Experiential Education,,,Julie Rahmer,Janet Morrison
+Administrative,AD0290,,Division of VP Students,300,CDS - Personal Counselling and Learning Skills,,,Marc Wilchesky,Janet Morrison
+Administrative,AD0300,,Division of VP Students,300,CDS - Disability Services,,,Marc Wilchesky,Janet Morrison
+Administrative,AD0310,,Division of VP Students,300,SCLD (excluding Orientation),,,Catherine Salole,Janet Morrison
+Administrative,AD0320,,Division of VP Students,300,"Sport & Recreation (Intramurals, Fitness, Recreation, Lifestyle, Camps)",,,Jennifer Myers,Janet Morrison
+Administrative,AD0331,,Division of VP Students,300,"Sport & Recreation (Marketing, Promotions, Alumni, Fundraising)",,,Jennifer Myers,Janet Morrison
+Administrative,AD0332,,Division of VP Students,300,Sports and Recreation (Varsity),,,Jennifer Myers,Janet Morrison
+Administrative,AD0340,,Division of VP Students,300,Sport and Recreation (Facilities),,,Jennifer Myers,Janet Morrison
+Administrative,AD0350,,Division of VP Students,300,YU Start & Orientation,,,Brendan Schulz,Janet Morrison
+Administrative,AD0370,,Office of the VP Academic & Provost,201,Office of the Provost,,,Richard Ooi,Rhonda Lenton
+Administrative,AD0380,,Office of the VP Academic & Provost,201,Vice-Provost Academic,,,Alice Pitt,Rhonda Lenton
+Administrative,AD0390,,Office of the VP Academic & Provost,201,Quality Assurance,,,Anna Pralat,Alice Pitt
+Administrative,AD0400,,Office of the VP Academic & Provost,201,YU-TD Community Engagement Centre,,,Yvette Munro,Alice Pitt
+Administrative,AD0410,,Office of the VP Academic & Provost,201,Atkinson Centre for Mature & Part-time Students,,,Brian Poser,Alice Pitt
+Administrative,AD0420,,Office of the VP Academic & Provost,201,Associate Vice President Teaching & Learning,,,Sue Vail,Rhonda Lenton
+Administrative,AD0430,,Office of the VP Academic & Provost,201,Teaching Commons,,,Celia Popovic,Sue Vail
+Administrative,AD0440,,Office of the VP Academic & Provost,201,Associate Vice President International,,,Marilyn Lambert-D,Rhonda Lenton
+Administrative,AD0450,,Office of the VP Academic & Provost,201,OIPA - Integrated Resource Planning,,,Sarah Cantrell,Rhonda Lenton
+Administrative,AD0460,,Office of the VP Academic & Provost,201,OIPA - Institutional Research,,,Sarah Cantrell,Rhonda Lenton
+Administrative,AD0480,,Office of the VP Academic & Provost,201,Art Gallery of York University,,,Philip Monk,Rhonda Lenton
+Administrative,AD0490,,Office of the VP Res&Innovat'n,43000,Office of VPRI,,,Felix Moses,Robert Hache
+Administrative,AD0500,,Office of the VP Res&Innovat'n,43000,Office of Research Services,,,David Phipps,Robert Hache
+Administrative,AD0550,,Office of the VP Res&Innovat'n,43000,Office of Research Ethics,,,Allison Collins- Mrakas,Robert Hache
+Administrative,AD0560,,Office of the VP Res&Innovat'n,43000,Special Programs,,,Obadiah George,Robert Hache
+Administrative,AD0570,,PRASE Project,62800,PRASE,,,Suzanne Killick,Gary Brewer
+Administrative,AD0590,,York Univ Development Corp,28200,"Property Development, Planning & Advisory",,,Chris Edey,Gary Brewer
+Administrative,AD0600,,GS-Office of the Dean,18400,Administrative Support,,,Barbara Crow,Rhonda Lenton
+Administrative,AD0620,,University Information Technology,407,Office of the CIO/IT Administration and Planning,,,A Della-Rossa,Bob Gagne
+Administrative,AD0630,,University Information Technology,407,Desktop/end user computing,,,Rick Sambhi,Bob Gagne
+Administrative,AD0640,,University Information Technology,407,Client Service Support,,,Karen Wash,Bob Gagne
+Administrative,AD0660,,University Information Technology,407,Information Security and Identity Management,,,Chris Russel,Bob Gagne
+Administrative,AD0670,,University Information Technology,407,Communications Infrastructure Services (Network/Voice/Data Centres),,,Chris Russel,Bob Gagne
+Administrative,AD0680,,University Information Technology,407,"Systems, Storage and Database Management",,,Bruce Fisher,Chris Russel
+Administrative,AD0690,,University Information Technology,407,"Email, Calendaring, Messaging Services",,,Bruce Fisher,Chris Russel
+Administrative,AD0700,,University Information Technology,407,Applications Support for Administrative Process Enablement,,,Amar Chana,Peter Rowley
+Administrative,AD0710,,University Information Technology,407,Application Support for Student Administration and Student Services,,,Al Regina,Peter Rowley
+Administrative,AD0720,,University Information Technology,407,Web Support and Collaborations Services,,,Neal Stephenson,Peter Rowley
+Administrative,AD0730,,University Information Technology,407,Classroom Learning Space Support and Student Labs,,,Jason Gerrity,Bob Gagne
+Administrative,AD0740,,University Information Technology,407,e-Learning Technology Support (Media Services),,,Rob Finlayson,Peter Rowley
+Administrative,AD0750,,Finance,403,Office of the AVP Finance & CFO,,,Trudy Pound-Curtis,Gary Brewer
+Administrative,AD0760,,Finance,403,Comptroller Services,,,Aldo Dimarcantonio,Trudy Pound-Curtis
+Administrative,AD0770,,Finance,403,Research Financial Services,,,Aldo Dimarcantonio,Trudy Pound-Curtis
+Administrative,AD0780,,Finance,403,Budgets & Planning,,,Aldo Dimarcantonio,Trudy Pound-Curtis
+Administrative,AD0790,,Finance,403,Procurement Services,,,Dexter King,Trudy Pound-Curtis
+Administrative,AD0800,,Finance,403,Treasury & Investments,,,Laurie Lawson,Trudy Pound-Curtis
+Administrative,AD0810,,Finance,403,Pension Fund Management,,,Leona Fields,Trudy Pound-Curtis
+Administrative,AD0820,,Finance,403,Insurance & Risk Management Services,,,Steve Pottle,Trudy Pound-Curtis
+Administrative,AD0830,,Human Resources,404,Office of the AVP HR,,,Aileen Ashman,Gary Brewer
+Administrative,AD0840,,Human Resources,404,Compensation,,,Christine Ablack,Aileen Ashman
+Administrative,AD0850,,Human Resources,404,Pension & Benefits,,,Terisa Ducharme,Aileen Ashman
+Administrative,AD0860,,Human Resources,404,Learning & Organizational Development,,,Suzanne Killick,Aileen Ashman
+Administrative,AD0870,,Human Resources,404,Recruitment Services,,,Lisa Tomassi,Aileen Ashman
+Administrative,AD0880,,Human Resources,404,Payroll & Employee Records,,,Thyra Garcia,Aileen Ashman
+Administrative,AD0890,,Human Resources,404,HR Information Management,,,Sue Bulof,Aileen Ashman
+Administrative,AD0900,,Human Resources,404,Non-Academic Employee Relations,,,Donna Smith,Aileen Ashman
+Administrative,AD0910,,Human Resources,404,"Employee Health, Safety & Well-being",,,Vanessa Aguiar,Aileen Ashman
+Administrative,AD0920,,Human Resources,404,CSBO Human Resources & Administration,,,Joanne Cary,Aileen Ashman
+Administrative,AD0930,,Division of VP Finance & Administration,404,Faculty Relations,,,Barry Miller,Gary Brewer
+Administrative,AD0940,,Campus Services & Business Operations,402,Office of the AVP CSBO,,,Richard Francki,Gary Brewer
+Administrative,AD0950,,Campus Services & Business Operations,402,Central Utilities & Energy Management,,,Brad Cochrane,Richard Francki
+Administrative,AD0960,,Campus Services & Business Operations,402,Building Maintenance,,,Steve Sicluna,Richard Francki
+Administrative,AD0970,,Campus Services & Business Operations,402,Facilities Development,,,Alan Wong,Richard Francki
+Administrative,AD0980,,Campus Services & Business Operations,402,Space Planning & Renovations,,,Patrick Saavedra,Richard Francki
+Administrative,AD0990,,Campus Services & Business Operations,402,Custodial Services,,,Bob Smith,Richard Francki
+Administrative,AD1000,,Campus Services & Business Operations,402,"Grounds, Fleet & Waste Management",,,Bob Smith,Richard Francki
+Administrative,AD1010,,Campus Services & Business Operations,402,Campus Planning & Sustainability,,,Helen Psathas,Richard Francki
+Administrative,AD1020,,Campus Services & Business Operations,402,Transportation Services,,,Helen Psathas,Richard Francki
+Administrative,AD1030,,Campus Services & Business Operations,402,CSBO – Finance,,,Stephen Jacobson,Richard Francki
+Administrative,AD1040,,Campus Services & Business Operations,402,Mailing Services,,,Steve Glassman,Richard Francki
+Administrative,AD1050,,Campus Services & Business Operations,402,Bookstore,,,Steve Glassman,Richard Francki
+Administrative,AD1060,,Campus Services & Business Operations,402,Printing Services,,,Steve Glassman,Richard Francki
+Administrative,AD1070,,Campus Services & Business Operations,402,Student Housing Services,,,Debbie Kee,Richard Francki
+Administrative,AD1080,,Campus Services & Business Operations,402,Accommodation & Conference Services,,,Debbie Kee,Richard Francki
+Administrative,AD1090,,Campus Services & Business Operations,402,Food Services,,,Anthony Barbisan,Richard Francki
+Administrative,AD1100,,Campus Services & Business Operations,402,Parking Services,,,Anthony Barbisan,Richard Francki
+Administrative,AD1110,,Campus Services & Business Operations,402,YU Card,,,Anthony Barbisan,Richard Francki
+Administrative,AD1120,,Campus Services & Business Operations,402,Lease and Contract Management,,,Stephen Jacobson,Richard Francki
+Administrative,AD1130,,Campus Services & Business Operations,402,Security Services,,,Aldo Altomare,Richard Francki
+Administrative,AD1140,,Campus Services & Business Operations,402,Emergency Preparedness,,,Aldo Altomare,Richard Francki
+Administrative,AD1150,,Campus Services & Business Operations,402,Safety Initiatives,,,Rob Castle,Gary Brewer
+Administrative,AD1160,,Campus Services & Business Operations,402,goSAFE,,,Helen Psathas,Richard Francki
+Administrative,AD1170,,Division of VP Finance & Administration,400,Office of the VP Finance and Administration,,,Robert Castle,Gary Brewer
+Administrative,AD1180,,Division of VP Finance & Administration,400,Internal Audit,,,Ran Lewin,Gary Brewer
+Administrative,AD1190,,Division of VP Finance & Administration,400,Temporary Use of University Space,,,Pam Persaud,Rob Castle
+Administrative,AD1200,Education,ED-Office of the Dean,16150,Dean’s Office,,,Andrea Torre,Ron Owston
+Administrative,AD1210,Education,ED-Education Resource Centre,16400,Education Resource Centre,,,Adam Trent,Ron Owston
+Administrative,AD1230,Env Studies,ES-Office of the Dean,16550,Dean’s Office,,,Paul Elliot,Noël Sturgeon
+Administrative,AD1240,Fine Arts,FA-Office of the Dean,16900,Dean’s Office,,,Carol Altilia,Shawn Brixey
+Administrative,AD1250,Fine Arts,FA-Performance Facilites,53200,Performance Facilities,,,Carol Altilia,Shawn Brixey
+Administrative,AD1260,Fine Arts,FA-Winters College,27000,Winters College,,,Marie Rickard,Shawn Brixey
+Administrative,AD1270,Glendon,Glendon,224,Dean’s Office,,,Gilles Fortin,Donald Ipperciel
+Administrative,AD1280,Glendon,GL-Office of Student Services,27150,Student Services,,,Rosanna Furgiuele,Donald Ipperciel
+Administrative,AD1290,Glendon,GL-Athletics Club,27050,Glendon Athletic Club,,,Rosanna Furgiuele,Donald Ipperciel
+Administrative,AD1300,Health,HH-Office of the Dean,53850,Dean’s Office,,,Mary Verrilli,Harvey Skinner
+Administrative,AD1310,Health,Faculty of Health,226,York U Psychology Clinic,,,Louise Hartley,Harvey Skinner
+Administrative,AD1320,Health,Faculty of Health,226,Calumet College (shared with Schulich),,,Suzanne Macdonald,Harvey Skinner
+Administrative,AD1330,Health,Faculty of Health,226,Stong College (shared with LAPS),,,Lesley Beagrie,Harvey Skinner
+Administrative,AD1340,Lassonde,Lassonde School of Engineering,9004,Dean’s Office,,,Fred Zhu,Janusz Kozinski
+Administrative,AD1360,LA&PS,Faculty of Liberal Arts & Professional Studies,227,Dean’s Office,,,Didier Pomerleau,Martin Singer
+Administrative,AD1370,LA&PS,Faculty of Liberal Arts & Professional Studies,227,Founders College,,,Mauro Buccheri,Martin Singer
+Administrative,AD1380,LA&PS,Faculty of Liberal Arts & Professional Studies,227,McLaughlin College,,,David Leyton-Brown,Martin Singer
+Administrative,AD1390,LA&PS,Faculty of Liberal Arts & Professional Studies,227,New College,,,Christian Marjollet,Martin Singer
+Administrative,AD1400,LA&PS,Faculty of Liberal Arts & Professional Studies,227,Vanier College,,,Stanley Tweyman,Martin Singer
+Administrative,AD1410,Osgoode,Osgoode Hall Law School,228,Dean’s Office,,,Phyllis Lepore Babcock,Lorne Sossin
+Administrative,AD1430,Osgoode,Osgoode Hall Law School,228,MDC,,,Phyllis Lepore Babcock,Lorne Sossin
+Administrative,AD1440,Schulich,Schulich School of Business,229,Dean’s Office,,,Magda Szaki,Dezso Horvath
+Administrative,AD1450,Science,SC-Office of the Dean,21200,Dean’s Office,,,Helen McLellan,Ray Jayawardhana
+Administrative,AD1460,Science,Faculty of Science,9006,Observatory,,,Paul Delaney,Ray Jayawardhana
+Administrative,AD1470,,Libraries,231,Administration and University Librarian's Office,,,Robert Thompson,Catherine Davidson
+Administrative,AD1480,,Libraries,231,Teaching & Learning,,,Adam Taves,Catherine Davidson
+Administrative,AD1490,,Libraries,231,Learning Environments/Physical and Virtual,,,John Dupuis,Catherine Davidson
+Administrative,AD1500,,Libraries,231,Collections (Physical and Digital),,,Rob van der Bliek,Catherine Davidson
+Administrative,AD1510,,Libraries,231,Research,,,Michael Moir,Catherine Davidson
+Administrative,AD1520,Health,Faculty of Health,226,Vivaria,,,Mary Verrilli,Harvey Skinner
+Administrative,AD1530,Science,Faculty of Science,9006,Bethune College,,,John Amanatides,Ray Jayawardhana
+Administrative,AD1540,Osgoode,Osgoode Hall Law School,,Law Library,,,Louis Mirando,Lorne Sossin

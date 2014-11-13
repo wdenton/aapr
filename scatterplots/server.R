@@ -2,11 +2,8 @@ library(shiny)
 library(dplyr)
 library(ggvis)
 
-m <- read.csv("aapr.csv")
+m <- read.csv("aapr.csv", stringsAsFactors = TRUE)
 m <- m %>% filter(Program_Type == "Academic")
-m$Faculty <- as.factor(m$Faculty)
-m$Department <- as.factor(m$Department)
-m$Level <- as.factor(m$Level)
 
 department_tooltip <- function(p) {
     if (is.null(p)) return(NULL)

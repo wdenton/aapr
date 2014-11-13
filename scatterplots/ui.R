@@ -39,7 +39,7 @@ shinyUI(
                 textInput("department_word", label = "Word in Department"),
 
                 tags$p("Reconstructed by William Denton (wdenton@yorku.ca).",
-                       tags$a(href="https://github.com/wdenton/aapr", "Raw data available."),
+                       tags$a(href="https://github.com/wdenton/aapr/blob/master/aapr.csv", "Raw data available."),
                        "Currently showing only Academic category; Administrative coming soon..")
 
             ),

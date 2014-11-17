@@ -628,7 +628,7 @@ Here are the raw pixel data and the resulting calculated rankings:
 | Orus  | AC2730 |    648 |    155 |    7.01 |           7.59 |
 | Orus  | AC3450 |    704 |    117 |    7.58 |           8.09 |
 | Orus  | AC3350 |    734 |    147 |    7.89 |            7.7 |
-| Orus  | AC2260 |    804 |    140 |    8.61 |           7.79 |
+| Orus  | AC2660 |    804 |    140 |    8.61 |           7.79 |
 | Orus  | AC3430 |    831 |    131 |    8.89 |           7.91 |
 #+TBLFM: $5=round(($3-64)/97.25 + 1,2)::$6=round((656-$4)/76 + 1, 2)
 

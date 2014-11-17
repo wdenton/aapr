@@ -3,7 +3,7 @@ library(dplyr)
 library(ggvis)
 
 m <- read.csv("aapr.csv", stringsAsFactors = TRUE)
-m <- m %>% filter(Program_Type == "Academic")
+m <- m %>% filter(Program_Type %in% c("Academic", "Research"))
 
 department_tooltip <- function(p) {
     if (is.null(p)) return(NULL)

@@ -40,7 +40,7 @@ shinyUI(
 
                 tags$p("Reconstructed by William Denton (wdenton@yorku.ca).",
                        tags$a(href="https://github.com/wdenton/aapr/blob/master/aapr.csv", "Raw data available."),
-                       "Currently showing only Academic category; Administrative coming soon..")
+                       "Currently showing only Academic category; Administrative coming soon.")
 
             ),
 

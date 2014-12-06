@@ -1,12 +1,7 @@
 library(shiny)
 library(ggvis)
-library(dplyr)
 
 m <- read.csv("aapr.csv", stringsAsFactors = TRUE)
-m <- m %>% filter(Program_Type %in% c("Academic", "Research"))
-
-## Hardcode this for now to stop things showing up in production that shouldn't be there
-faculties <- c("Education", "Env Studies", "Fine Arts", "Glendon", "Health", "LA&PS", "Lassonde", "MISC - VPAP", "MISC - VPRI", "Osgoode", "Schulich", "Science")
 
 ## Define the overall UI
 shinyUI(
@@ -23,10 +18,14 @@ shinyUI(
             ## Define the sidebar with one input
             sidebarPanel(
 
-                h3("Faculty"),
+                textInput("department_word", label = "Word in Department"),
+
+                selectInput("category", "", c("Academic", "Administrative")),
+
+                uiOutput("faculties_list"),
+
+                ## h3("Faculty"),
                 ## checkboxGroupInput("selected_faculties", label = "", choices = levels(m$Faculty), selected = levels(m$Faculty)),
-                checkboxGroupInput("selected_faculties", label = "", choices = faculties, selected = faculties),
-                tags$p("ORUs are mostly under MISC - VPRI, but some are in faculties."),
 
                 h3("Level"),
                 checkboxGroupInput("selected_levels", label = "", choices = levels(m$Level), selected = levels(m$Level)),
@@ -37,11 +36,9 @@ shinyUI(
                 ## Sustainability slider
                 sliderInput("sustainability_range", "Sustainability", min = 1, max = 9, value = c(1, 9)),
 
-                textInput("department_word", label = "Word in Department"),
-
                 tags$p("Reconstructed by William Denton (wdenton@yorku.ca).",
-                       tags$a(href="https://github.com/wdenton/aapr/blob/master/aapr.csv", "Raw data available."),
-                       "Currently showing only Academic category; Administrative coming soon.")
+                       tags$a(href="https://github.com/wdenton/aapr/", "Source and data.")
+                       )
 
             ),
 

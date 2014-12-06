@@ -2,16 +2,8 @@ library(shiny)
 library(dplyr)
 library(ggvis)
 
-m <- read.csv("aapr.csv")
-m$Faculty <- as.factor(m$Faculty)
-m$Department <- as.factor(m$Department)
-m$Level <- as.factor(m$Level)
-
-# m[substr(m$Includes_Degree_Types, 1, 1) == "B",]$Level = "Bachelor"
-# m[substr(m$Includes_Degree_Types, 1, 1) == "M",]$Level = "Master"
-# m[substr(m$Includes_Degree_Types, 1, 3) == "LLM",]$Level = "Master"
-# m[substr(m$Includes_Degree_Types, 1, 1) == "P",]$Level = "PhD"
-# m[m$Level == "",]$Level = "Other"
+m <- read.csv("aapr.csv", stringsAsFactors = TRUE)
+m <- m %>% filter(Program_Type %in% c("Academic", "Research"))
 
 department_tooltip <- function(p) {
     if (is.null(p)) return(NULL)
@@ -25,27 +17,9 @@ department_tooltip <- function(p) {
 ## Define a server for the Shiny app
 shinyServer(function(input, output, session) {
 
-    output$faculties_list <- renderUI({
-
-        if (input$category == "Academic") {
-            f <- m %>% filter (Program_Type == "Academic")
-            f <- droplevels(f)
-            print("Academic")
-            checkboxGroupInput("selected_faculties", label = "", choices = levels(f$Faculty), selected = levels(f$Faculty))
-        }
-        if (input$category == "Administrative") {
-            f <- m %>% filter (Program_Type == "Administrative")
-            f <- droplevels(f)
-            print("Administrative")
-            checkboxGroupInput("selected_faculties", label = "", choices = levels(f$Department), selected = levels(f$Department))
-        }
-
-    })
-
     points <- reactive({
 
-        f <- m %>% filter(Program_Type == input$category,
-                       Faculty %in% input$selected_faculties,
+        m <- m %>% filter(Faculty %in% input$selected_faculties,
                        Level %in% input$selected_levels,
                        Quality >= input$quality_range[1],
                        Quality <= input$quality_range[2],
@@ -54,10 +28,10 @@ shinyServer(function(input, output, session) {
                        )
 
         if (! is.null(input$department_word)) {
-            f <- f %>% filter(grepl(input$department_word, Department, ignore.case = TRUE))
+            m <- m %>% filter(grepl(input$department_word, Department, ignore.case = TRUE))
         }
 
-        f
+        m
 
     })
 

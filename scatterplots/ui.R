@@ -38,7 +38,9 @@ shinyUI(
 
                 tags$p("Reconstructed by William Denton (wdenton@yorku.ca).",
                        tags$a(href="https://github.com/wdenton/aapr/", "Source and data.")
-                       )
+                       ),
+
+                tags$p("Known bug: The Department list includes superfluous entries in the Administrative view.")
 
             ),
 
